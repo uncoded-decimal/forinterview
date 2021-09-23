@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:forinterview/controllers/auth_controller.dart';
 import 'package:forinterview/screens/auth/auth_screen.dart';
 import 'package:forinterview/screens/landing/home_screen.dart';
-import 'package:forinterview/screens/widgets/default_loading_widget.dart';
 import 'package:forinterview/utils/theme.dart';
 
 void main() async {
