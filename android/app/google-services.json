@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443152335395",
+    "project_id": "interviewtask-80e1f",
+    "storage_bucket": "interviewtask-80e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443152335395:android:d51150d96e081b6d6c6796",
+        "android_client_info": {
+          "package_name": "com.aditya.interviewtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443152335395-hs2m46m7l51h8q0542np0hmsh2gibn11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.interviewtask",
+            "certificate_hash": "e9b4a6427f1d13f0caa33f94d26f0564ccf3d6fb"
+          }
+        },
+        {
+          "client_id": "443152335395-lc5vu5khipssq79jgj9j8bv5rmh1ekru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.interviewtask",
+            "certificate_hash": "0edb23924f283bffd55203a9e9ab52b0c9e87d6f"
+          }
+        },
+        {
+          "client_id": "443152335395-ilflltaqr45qg2as8vargtqquj08ri39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2aNETW6xBf1R902r4Zbzhqa4tHr2bjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443152335395-ilflltaqr45qg2as8vargtqquj08ri39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
