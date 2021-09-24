@@ -56,7 +56,7 @@ class GameBloc {
   }
 
   void rollDice() async {
-    if (_scoreSubject.value.length == 10) {
+    if (_scoreSubject.value.length >= 10) {
       _diceSubject.sink.addError("Only 10 attempts are allowed");
       return;
     }
