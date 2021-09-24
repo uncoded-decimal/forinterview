@@ -49,7 +49,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
           const SizedBox(height: 10),
           TextFormField(
             controller: _passwordController,
-            obscureText: showPassword,
+            obscureText: !showPassword,
             keyboardType: TextInputType.emailAddress,
             textCapitalization: TextCapitalization.none,
             textInputAction: TextInputAction.done,

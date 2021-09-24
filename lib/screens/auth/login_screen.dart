@@ -57,7 +57,7 @@ class _LoginScreenState extends State<LoginScreen> {
           ),
           const SizedBox(height: 10),
           TextFormField(
-            obscureText: showPassword,
+            obscureText: !showPassword,
             controller: _passwordController,
             keyboardType: TextInputType.emailAddress,
             textCapitalization: TextCapitalization.none,
