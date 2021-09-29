@@ -26,3 +26,7 @@ Packages Used:
  - `get_version`
 
     Lets the app query it's build information to get current version.
+
+ - `firebase_analytics` and `firebase_crashlytics`
+
+    Let's the app log analytics and report crashes to the firebase database.

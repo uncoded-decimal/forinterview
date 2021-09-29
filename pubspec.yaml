@@ -10,8 +10,10 @@ environment:
 
 dependencies:
   cupertino_icons: ^1.0.2
+  firebase_analytics: ^8.3.2
   firebase_auth: ^3.1.1
   firebase_core: ^1.6.0
+  firebase_crashlytics: ^2.2.1
   firebase_database: ^8.0.0
   flutter:
     sdk: flutter
